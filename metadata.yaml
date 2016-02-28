@@ -1,0 +1,53 @@
+_repo: Nana_5250
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: "Nana is a novel by the French naturalist author Émile Zola. Completed\
+  \ in 1880, Nana is the ninth installment in the 20-volume Les Rougon-Macquart series.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- FR Littérature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5250'
+  wikidata: Q1138346
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Nana
+url: http://www.gutenberg.org/ebooks/5250
+wikipedia:
+- https://fi.wikipedia.org/wiki/Nana_(kirja)
+- https://fr.wikipedia.org/wiki/Nana_(roman)
+- https://sh.wikipedia.org/wiki/Nana_(roman)
+- https://zh.wikipedia.org/wiki/%E5%A8%9C%E5%A8%9C
+- https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8A_(%E5%B0%8F%E8%AA%AC)
+- https://pl.wikipedia.org/wiki/Nana_(powie%C5%9B%C4%87)
+- https://cs.wikipedia.org/wiki/Nana_(rom%C3%A1n)
+- https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%86%D8%A7_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://de.wikipedia.org/wiki/Nana_(Roman)
+- https://es.wikipedia.org/wiki/Nana_(Zola)
+- https://hu.wikipedia.org/wiki/Nana_(reg%C3%A9ny)
+- https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BD%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://en.wikipedia.org/wiki/Nana_(novel)
+- https://it.wikipedia.org/wiki/Nan%C3%A0_(romanzo)
+- https://pt.wikipedia.org/wiki/Nana_(livro)
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BD%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://hr.wikipedia.org/wiki/Nana_(roman)
+- https://el.wikipedia.org/wiki/%CE%9D%CE%B1%CE%BD%CE%AC
+- https://ca.wikipedia.org/wiki/Nana_(novel%C2%B7la)
+- https://fr.wikisource.org/wiki/Nana
